@@ -1,0 +1,78 @@
+Class,Order,Family,Subfamily,Genus,Species,Category,Taxonomie,Liste E,06_06_2021,06_07_2021,06_08_2021,06_09_2021,02_10_2022,02_11_2022
+Actinopterygii,Beloniformes,Belonidae,-,Ablennes,hians,reef-associated,Ablennes hians,Ablennes hians,0,1,0,1,0,0
+Actinopterygii,Perciformes,Pomacentridae,Glyphisodontinae,Abudefduf,saxatilis,reef-associated,Abudefduf saxatilis,Abudefduf saxatilis,0,1,1,0,0,0
+Actinopterygii,Trachichthyiformes,Anoplogastridae,-,Anoplogaster,-,bathypelagic,Anoplogaster sp.,"Anoplogaster cornuta, Anoplogaster brachycera (a)",0,0,0,0,1,0
+Aves,Procellariiformes,Procellariidae,-,Ardenna,-,-,Ardenna sp.,"Ardenna gravis, Ardenna grisea",0,0,0,0,0,1
+Actinopterygii,Perciformes,Pomacentridae,Chrominae,Azurina,cyanea,reef-associated,Azurina cyanea,Azurina cyanea,0,0,1,0,0,0
+Actinopterygii,Myctophiformes,Myctophidae,Lampanyctinae,Bolinichthys,-,pelagic,Bolinichthys sp.,"Bolinichthys distofax, Bolinichthys indicus, Bolinichthys supralateralis, Bolinichthys photothorax (a)",0,0,0,0,1,0
+Actinopterygii,Perciformes,Bramidae,-,Brama,-,pelagic,Brama sp.,Brama caribbea (a),1,0,0,0,0,0
+Actinopterygii,Perciformes,Bramidae,-,Brama,-,pelagic,Brama sp. b,Brama caribbea (a),0,0,0,0,0,1
+Actinopterygii,Tetraodontiformes,Monacanthidae,-,Cantherhines,pullus,reef-associated,Cantherhines pullus,Cantherhines pullus,0,0,1,0,0,0
+Actinopterygii,Tetraodontiformes,Monacanthidae,-,Cantherhines,-,reef-associated,Cantherhines sp.,Cantherhines dumerilii (b),0,0,1,0,0,0
+Actinopterygii,Tetraodontiformes,Balistidae,-,Canthidermis,maculata,reef-associated,Canthidermis maculata,Canthidermis maculata,0,0,0,0,1,0
+Actinopterygii,Carangiformes,Carangidae,Caranginae,-,-,reef-associated; pelagic-oceanic,Carangidae 2,"Decapterus macarellus, Trachurus lathami",0,1,0,0,1,1
+Actinopterygii,Carangiformes,Carangidae,Caranginae,-,-,reef-associated; pelagic-oceanic,Carangidae 1,"Decapterus macarellus, Trachurus lathami",0,0,0,0,1,0
+Actinopterygii,Carangiformes,Carangidae,Caranginae,Caranx,-,reef-associated; pelagic-neritic; benthopelagic,Caranx sp. 1,"Caranx crysos, Caranx lugubris, Caranx hippos, Caranx latus, Caranx bartholomaei",1,0,0,1,0,0
+Actinopterygii,Carangiformes,Carangidae,Caranginae,Caranx,-,reef-associated; pelagic-neritic; benthopelagic,Caranx sp. 2,"Caranx hippos, Caranx latus, Caranx lugubris, Caranx crysos",0,0,1,0,0,0
+Actinopterygii,Acanthuriformes,Pomacanthidae,-,Centropyge,-,reef-associated,Centropyge sp.,"Centropyge argi, Centropyge aurantonotus",1,1,0,0,0,0
+Actinopterygii,Myctophiformes,Myctophidae,Lampanyctinae,Ceratoscopelus,-,bathypelagic,Ceratoscopelus sp.,"Ceratoscopelus maderensis, Ceratoscopelus townsendi, Ceratoscopelus warmingii",0,0,0,0,1,0
+Actinopterygii,Acanthuriformes,Chaetodontidae,-,-,-,reef-associated,Chaetodontidae,"Chaetodon capistratus, Chaetodon sedentarius, Chaetodon striatus, Prognathodes aculeatus, Prognathodes guyanensis (a)",1,0,0,0,0,0
+Actinopterygii,Trachiniformes,Chiasmodontidae,-,-,-,bathypelagic,Chiasmodontidae,"Kali macrura, Dysalotus alcocki",1,0,0,0,0,1
+Actinopterygii,Aulopiformes,Evermannellidae,-,Coccorella,atlantica,bathypelagic,Coccorella atlantica,Coccorella atlantica,0,1,0,0,1,0
+Actinopterygii,Carangiformes,Coryphaenidae,-,Coryphaena,-,pelagic,Coryphaena sp.,"Coryphaena equiselis, Coryphaena hippurus",0,1,0,0,0,0
+Actinopterygii,Scombriformes,Nomeidae,-,Cubiceps,baxteri,pelagic,Cubiceps baxteri,Cubiceps baxteri,1,1,1,0,1,0
+Actinopterygii,Carangiformes,Carangidae,Caranginae,Decapterus,punctatus,reef-associated,Decapterus punctatus,Decapterus punctatus,0,0,0,0,1,0
+Actinopterygii,Carangiformes,Carangidae,Caranginae,Decapterus,tabl,pelagic,Decapterus tabl,Decapterus tabl,0,0,0,0,0,1
+Mammalia,Cetacea,Delphinidae,-,-,-,-,Delphinidae 1,"Tursiops truncatus, Globicephala melas (b), Globicephala macrorhynchus, Steno bredanensis, Pseudorca crassidens, Peponocephala electra, Feresa attenuata",1,0,0,0,0,0
+Mammalia,Cetacea,Delphinidae,-,-,-,-,Delphinidae 2,"Tursiops truncatus, Steno bredanensis, Globicephala macrorhynchus, Globicephala melas (b), Pseudorca crassidens, Peponocephala electra, Feresa attenuata, Orcinus orca, Stenella longirostris, Stenella attenuata, Stenella coeruleoalba, Stenella frontalis, Stenella clymene",1,0,0,1,0,0
+Mammalia,Cetacea,Delphinidae,Delphininae,-,-,-,Delphininae 1,"Lagenodelphis hosei, Stenella attenuata, Stenella longirostris, Stenella coeruleoalba, Stenella frontalis, Stenella clymene, Tursiops truncatus",0,1,0,0,0,1
+Mammalia,Cetacea,Delphinidae,Delphininae,-,-,-,Delphininae 1b,"Tursiops truncatus, Stenella longirostris, Stenella attenuata, Stenella coeruleoalba, Stenella frontalis, Stenella clymene, Lagenodelphis hosei",0,0,0,0,1,1
+Mammalia,Cetacea,Delphinidae,Delphininae,-,-,-,Delphininae 2,"Tursiops truncatus, Stenella longirostris, Stenella attenuata, Stenella coeruleoalba, Stenella frontalis, Stenella clymene, Lagenodelphis hosei",1,1,1,1,0,0
+Mammalia,Cetacea,Delphinidae,Delphininae,-,-,-,Delphininae 3,"Tursiops truncatus, Stenella longirostris, Stenella attenuata, Stenella coeruleoalba, Stenella frontalis, Stenella clymene, Lagenodelphis hosei",0,0,1,0,1,1
+Mammalia,Cetacea,Delphinidae,Delphininae,-,-,-,Delphininae 3b,"Lagenodelphis hosei, Stenella attenuata, Stenella longirostris, Stenella coeruleoalba, Stenella frontalis, Stenella clymene, Tursiops truncatus, Steno bredanensis",0,0,0,0,1,0
+Mammalia,Cetacea,Delphinidae,Delphininae,-,-,-,Delphininae 5,"Tursiops truncatus, Stenella longirostris, Stenella attenuata, Stenella coeruleoalba, Stenella frontalis, Stenella clymene, Lagenodelphis hosei",0,0,0,0,0,1
+Mammalia,Cetacea,Delphinidae,Delphininae,-,-,-,Delphininae 6,"Tursiops truncatus, Stenella longirostris, Stenella attenuata, Stenella coeruleoalba, Stenella frontalis, Stenella clymene, Lagenodelphis hosei",0,0,0,0,0,1
+Actinopterygii,Myctophiformes,Myctophidae,Diaphininae,Diaphus,-,bathypelagic,Diaphus sp. 1,"Diaphus fragilis, Diaphus minax (a), Diaphus roei (a)",1,0,0,1,0,0
+Actinopterygii,Myctophiformes,Myctophidae,Diaphininae,Diaphus,-,bathypelagic,Diaphus sp. 2,"Diaphus fragilis, Diaphus minax (a), Diaphus roei (a)",0,0,1,1,0,0
+Actinopterygii,Myctophiformes,Myctophidae,Diaphininae,Diaphus,-,bathypelagic,Diaphus sp. 3,"Diaphus minax (a), Diaphus roei (a), Diaphus taaningi (a), Diaphus adenomus (a)",0,0,0,1,0,0
+Actinopterygii,Myctophiformes,Myctophidae,Diaphininae,Diaphus,-,bathypelagic,Diaphus sp. 4,"Diaphus splendidus, Diaphus effulgens, Diaphus adenomus (a), Diaphus bertelseni (a), Diaphus brachycephalus (a), Diaphus dumerilii (a), Diaphus lucidus (a), Diaphus metopoclampus (a), Diaphus minax (a), Diaphus mollis (a), Diaphus perspicillatus (a), Diaphus rafinesquii (a), Diaphus roei (a), Diaphus subtilis (a), Diaphus taaningi (a), Diaphus termophilus (a)",0,0,1,1,0,0
+Actinopterygii,Scombriformes,Gempylidae,-,Diplospinus,multistriatus,benthopelagic,Diplospinus multistriatus,Diplospinus multistriatus,0,0,0,0,0,1
+Actinopterygii,Perciformes,Epinephelidae,-,Epinephelus,guttatus,reef-associated,Epinephelus guttatus,Epinephelus guttatus,0,0,0,0,1,0
+Actinopterygii,Beloniformes,Exocoetidae,-,-,-,pelagic,Exocoetidae 3,"Hirundichthys affinis, Hirundichthys rondeletii, Hirundichthys speculiger, Hirundichthys volador (a), Cheilopogon cyanopterus, Cheilopogon pinnatibarbatus, Cheilopogon exsiliens (a), Cheilopogon furcatus (a), Cheilopogon heterurus (a), Cheilopogon hubbsi (a), Cheilopogon melanurus (a),  Prognichthys glaphyrae (a), Prognichthys occidentalis (a), Cypselurus comatus (a), Exocoetus volitans, Exocoetus obtusirostris (a)",1,0,1,1,0,1
+Actinopterygii,Beloniformes,Exocoetidae,-,-,-,pelagic,Exocoetidae 1,"Hirundichthys affinis, Hirundichthys rondeletii, Hirundichthys speculiger, Hirundichthys volador (a), Cheilopogon cyanopterus, Cheilopogon pinnatibarbatus, Cheilopogon exsiliens (a), Cheilopogon furcatus (a), Cheilopogon heterurus (a), Cheilopogon hubbsi (a), Cheilopogon melanurus (a), Prognichthys glaphyrae (a), Prognichthys occidentalis (a), Cypselurus comatus (a), Exocoetus volitans, Exocoetus obtusirostris (a)",0,0,0,0,0,1
+Actinopterygii,Beloniformes,Exocoetidae,-,-,-,pelagic,Exocoetidae 2,"Hirundichthys affinis, Hirundichthys rondeletii, Hirundichthys speculiger, Hirundichthys volador (a), Cheilopogon cyanopterus, Cheilopogon exsiliens (a), Cheilopogon furcatus (a), Cheilopogon heterurus (a), Cheilopogon hubbsi (a), Cheilopogon melanurus (a), Prognichthys glaphyrae (a), Prognichthys occidentalis (a), Cypselurus comatus (a), Exocoetus volitans,  Exocoetus obtusirostris (a)",0,0,0,0,0,1
+Actinopterygii,Scombriformes,Gempylidae,-,Gempylus,serpens,pelagic,Gempylus serpens,Gempylus serpens,1,1,1,0,0,0
+Actinopterygii,Clupeiformes,Clupeidae,-,Harengula,-,reef-associated,Harengula sp. 1,"Harengula clupeola, Harengula jaguana",0,0,0,0,1,0
+Actinopterygii,Clupeiformes,Clupeidae,-,Harengula,-,reef-associated,Harengula sp. 2,"Harengula clupeola, Harengula jaguana",0,0,0,0,1,0
+Actinopterygii,Clupeiformes,Clupeidae,-,Harengula,-,reef-associated,Harengula sp. 3,"Harengula clupeola, Harengula jaguana",0,0,0,0,1,0
+Actinopterygii,Beloniformes,Hemiramphidae,-,-,-,reef-associated; pelagic-neritic; pelagic-oceanic,Hemiramphidae,"Hemiramphus balao, Hemiramphus brasiliensis (a), Hyporhamphus collettei (a), Hyporhamphus roberti (a), Oxyporhamphus micropterus, Oxyporhamphus similis (a)",1,0,0,0,0,0
+Actinopterygii,Beloniformes,Hemiramphidae,-,-,-,reef-associated; pelagic-neritic; pelagic-oceanic,Hemiramphidae b,"Hemiramphus balao, Hemiramphus brasiliensis (a), Hyporhamphus collettei (a), Hyporhamphus roberti (a), Oxyporhamphus micropterus, Oxyporhamphus similis (a)",0,0,0,0,0,1
+Actinopterygii,Carangiformes,Istiophoridae,-,-,-,pelagic,Istiophoridae,"Tetrapturus pfluegeri, Makaira nigricans, Istiophorus albicans, Istiophorus platypterus, Kajikia albida",0,1,0,0,0,0
+Actinopterygii,Myctophiformes,Myctophidae,Lampanyctinae,Lampadena,luminosa,bathypelagic,Lampadena luminosa,Lampadena luminosa,0,0,0,0,1,0
+Actinopterygii,Myctophiformes,Myctophidae,Lampanyctinae,Lampanyctus,-,bathypelagic,Lampanyctus sp.,"Lampanyctus ater (a), Lampanyctus cuprarius (a), Lampanyctus lineatus (a), Lampanyctus nobilis (a), Lampanyctus photonotus (a), Lampanyctus vadulus (a)",0,0,0,0,0,1
+Actinopterygii,Ophidiiformes,Ophidiidae,Ophidiinae,Lepophidium,-,benthopelagic,Lepophidium sp.,"Lepophidium aporrhox (a), Lepophidium brevibarbe (a), Lepophidium collettei (a), Lepophidium crossotum (a), Lepophidium cultratum (a), Lepophidium entomelan (a), Lepophidium gilmorei (a), Lepophidium jeannae (a), Lepophidium kallion (a), Lepophidium marmoratum (a), Lepophidium pardale (a), Lepophidium pheromystax (a), Lepophidium robustum (a), Lepophidium staurophor (a), Lepophidium wileyi (a), Lepophidium zophochir (a)",0,0,0,0,1,0
+Actinopterygii,Perciformes,Lutjanidae,Lutjaninae,-,-,reef-associated,Lutjanidae,"Lutjanus analis, Lutjanus buccanella, Lutjanus campechanus, Lutjanus mahogoni, Lutjanus synagris, Lutjanus vivanus , Lutjanus ambiguus (a), Lutjanus purpureus (a), Ocyurus chysurus",0,1,0,0,0,0
+Actinopterygii,Perciformes,Lutjanidae,Lutjaninae,Lutjanus,-,reef-associated,Lutjanus sp.,"Lutjanus synagris, Lutjanus ambiguus (a), Lutjanus purpureus (a)",0,1,0,0,0,0
+Actinopterygii,Mulliformes,Mullidae,-,Mulloidichthys,martinicus,reef-associated,Mulloidichthys martinicus,Mulloidichthys martinicus,0,0,0,1,0,0
+Actinopterygii,Myctophiformes,Myctophidae,Myctophinae,Myctophum,-,bathypelagic,Myctophum sp.,Myctophum orientale (b),0,0,0,1,0,0
+Actinopterygii,Acropomatiformes,Bathyclupeidae,-,Neobathyclupea,argentea,pelagic-oceanic,Neobathyclupea argentea,Neobathyclupea argentea,1,0,0,0,0,0
+Actinopterygii,Myctophiformes,Neoscopelidae,-,Neoscopelus,macrolepidotus,bathypelagic,Neoscopelus macrolepidotus,Neoscopelus macrolepidotus,0,1,0,0,0,0
+Actinopterygii,Beloniformes,Exocoetidae,-,Parexocoetus,-,pelagic-neritic,Parexocoetus sp. 2,"Parexocoetus brachypterus, Parexocoetus hillianus (a)",1,1,1,1,0,1
+Actinopterygii,Beloniformes,Exocoetidae,-,Parexocoetus,-,pelagic-neritic,Parexocoetus sp. 1,"Parexocoetus brachypterus, Parexocoetus hillianus (a)",0,0,0,0,0,1
+Actinopterygii,Beloniformes,Belonidae,-,Platybelone,argalus,reef-associated,Platybelone argalus,Platybelone argalus,0,0,0,0,1,0
+Actinopterygii,Perciformes,Grammistidae,-,Pseudogramma,gregoryi,reef-associated,Pseudogramma gregoryi,Pseudogramma gregoryi,0,0,0,1,0,0
+Actinopterygii,Mulliformes,Mullidae,-,Pseudupeneus,maculatus,reef-associated,Pseudupeneus maculatus,Pseudupeneus maculatus,0,1,0,0,0,0
+Actinopterygii,Scorpaeniformes,Scorpaenidae,Pteroinae,Pterois,volitans,reef-associated,Pterois volitans,Pterois volitans,0,0,0,1,1,0
+Actinopterygii,Scombriformes,Scombridae,-,-,-,pelagic-neritic; pelagic-oceanic,Scombridae,"Auxis thazard, Auxis rochei, Sarda sarda, Euthynnus alleteratus, Thunnus alalunga, Thunnus albacares, Thunnus atlanticus, Thunnus obesus, Thunnus thynnus, Katsuwonus pelamis, Acanthocybium solandri",0,1,1,1,0,1
+Actinopterygii,Scombriformes,Scombridae,Scombrinae,-,-,pelagic-neritic; pelagic-oceanic,Scombrinae 1,"Euthynnus alleteratus, Katsuwonus pelamis, Auxis thazard, Auxis rochei, Sarda sarda, Thunnus alalunga, Thunnus albacares, Thunnus atlanticus, Thunnus obesus, Thunnus thynnus",1,0,0,1,1,1
+Actinopterygii,Scombriformes,Scombridae,Scombrinae,-,-,pelagic-neritic; pelagic-oceanic,Scombrinae 2,"Thunnus alalunga, Thunnus albacares, Thunnus atlanticus, Thunnus obesus, Thunnus thynnus, Auxis thazard, Auxis rochei, Sarda sarda, Katsuwonus pelamis, Euthynnus alletteratus, Acanthocybium solandri",1,0,1,0,1,0
+Actinopterygii,Aulopiformes,Scopelarchidae,-,Scopelarchoides,danae,bathypelagic,Scopelarchoides danae,Scopelarchoides danae,1,0,0,0,0,0
+Actinopterygii,Perciformes,Sphyraenidae,-,Sphyraena,barracuda,reef-associated,Sphyraena barracuda,Sphyraena barracuda,0,0,0,0,1,0
+Actinopterygii,Perciformes,Pomacentridae,Microspathodontinae,Stegastes,partitus,reef-associated,Stegastes partitus,Stegastes partitus,1,0,0,1,0,0
+Actinopterygii,Perciformes,Pomacentridae,-,Stegastes,-,reef-associated,Stegastes sp.,"Stegastes adustus, Stegastes diencaeus, Stegastes fuscus, Stegastes otophorus (a)",0,0,0,0,1,0
+Actinopterygii,Stomiiformes,Stomiidae,Stomiinae,Stomias,-,bathypelagic,Stomias sp.,"Stomias affinis, Stomias ferox (a), Stomias longibarbatus (a)",1,1,0,0,0,0
+Actinopterygii,Stomiiformes,Stomiidae,-,-,-,bathypelagic,Stomiidae,"Astronesthes atlanticus (a), Astronesthes cyaneus (a), Astronesthes gemmifer (a), Astronesthes indicus (a), Astronesthes macropogon (a), Astronesthes micropogon (a), Astronesthes niger (a), Astronesthes richardsoni (a), Astronesthes similus (a), Astronesthes zharovi (a), Stomias ferox (a), Stomias longibarbatus (a)",0,0,0,0,0,1
+Aves,Suliformes,Sulidae,-,Sula,-,-,Sula sp.,"Sula leucogaster, Sula dactylatra",0,0,0,1,0,0
+Actinopterygii,Perciformes,Labridae,Corinae,Thalassoma,bifasciatum,reef-associated,Thalassoma bifasciatum 1,Thalassoma bifasciatum 1,0,1,0,0,0,0
+Actinopterygii,Perciformes,Labridae,Corinae,Thalassoma,bifasciatum,reef-associated,Thalassoma bifasciatum 2,Thalassoma bifasciatum 2,0,1,0,0,0,0
+Actinopterygii,Beloniformes,Belonidae,-,Tylosurus,-,reef-associated,Tylosurus sp.,"Tylosurus acus, Tylosurus crocodilus",0,0,1,0,0,0
